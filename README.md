@@ -1,5 +1,23 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# プロジェクト概要
+
+このプロジェクトは、Next.js を使用したモダンなウェブアプリケーションです。
+
+## 主な機能
+
+- 高速なページロードと SEO 最適化のための Server-Side Rendering
+- 効率的な開発ワークフローとコード品質の維持
+- TypeScript による型安全な開発環境
+- CI/CD パイプラインによる継続的デプロイメント
+
+## 技術スタック
+
+- **フロントエンド**: Next.js, React, TypeScript
+- **スタイリング**: [適切な CSS ソリューション]
+- **デプロイ**: Vercel
+- **CI/CD**: GitHub Actions
+
 ## Getting Started
 
 First, run the development server:
